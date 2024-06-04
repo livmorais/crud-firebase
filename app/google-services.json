@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12402418630",
+    "project_id": "fir-database-deaef",
+    "storage_bucket": "fir-database-deaef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12402418630:android:207570451de233d2e888c7",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh07Hl24s3XPAUYVsPCh8VDMQWlLYPDQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
